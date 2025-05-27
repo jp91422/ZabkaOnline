@@ -26,7 +26,7 @@ Frog/
     └── 7879.txt            # Dane zakupów konkretnego klienta (po ID)
     └── 8434.txt            # Dane zakupów konkretnego klienta (po ID)
 │
-└── Grafiki/               # Folder z grafikami
+└── Grafiki/                # Folder z grafikami
 
 ```
 ---
