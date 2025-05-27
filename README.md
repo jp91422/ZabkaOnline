@@ -74,34 +74,34 @@ Frog/
 ---
 
 ## 📚 Dokumentacja (wybrane funkcje)
-register_customer(name: str, surname: str) -> None
+- register_customer(name: str, surname: str) -> None
 Rejestruje nowego klienta. Generuje 4-cyfrowy ID, zapisuje dane do customer.csv i tworzy plik zakupowy w folderze DATABASE.
 
-purchase_products(customer_id: str, products: list[tuple]) -> None
+- purchase_products(customer_id: str, products: list[tuple]) -> None
 Pozwala klientowi na jednoczesny zakup wielu produktów. Zapisuje dane zakupów do pliku klienta.
 
-@log_action
+- @log_action
 Dekorator dodający automatyczny zapis logów operacji administratora (np. rejestracja, zakupy).
 
 ---
 
 ## 🛡️ Obsługa wyjątków
-Błędny format danych wejściowych (np. brak ID, nieprawidłowe nazwy produktów)
+- Błędny format danych wejściowych (np. brak ID, nieprawidłowe nazwy produktów)
 
-Próba zakupu nieistniejącego produktu
+- Próba zakupu nieistniejącego produktu
 
-Obsługa nieistniejącego klienta
+- Obsługa nieistniejącego klienta
 
 ---
 
 ## 🔐 Przyszłe rozszerzenia
-Logowanie i role użytkowników (admin/klient)
+- Logowanie i role użytkowników (admin/klient)
 
-Historia zakupów klienta w GUI
+- Historia zakupów klienta w GUI
 
-Filtrowanie produktów (np. wg kategorii, daty ważności)
+- Filtrowanie produktów (np. wg kategorii, daty ważności)
 
-API REST dla integracji mobilnej
+- API REST dla integracji mobilnej
 
 ---
 
