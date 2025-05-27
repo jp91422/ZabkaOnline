@@ -59,17 +59,17 @@ Frog/
 ---
 
 ## 💡 Funkcjonalności
-Rejestracja nowych klientów (generowanie ID, tworzenie pliku zakupów)
+- Rejestracja nowych klientów (generowanie ID, tworzenie pliku zakupów)
 
-Usuwanie danych klientów (po ID lub nazwie)
+- Usuwanie danych klientów (po ID lub nazwie)
 
-Dodawanie/usuwanie produktów (w products.xlsx)
+- Dodawanie/usuwanie produktów (w products.xlsx)
 
-Zakupy klienta (obsługa wielu produktów jednocześnie)
+- Zakupy klienta (obsługa wielu produktów jednocześnie)
 
-Monitoring: liczba klientów, dostępnych produktów, analiza zakupów
+- Monitoring: liczba klientów, dostępnych produktów, analiza zakupów
 
-Graficzny interfejs użytkownika (GUI)
+- Graficzny interfejs użytkownika (GUI)
 
 ---
 
