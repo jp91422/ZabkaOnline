@@ -45,7 +45,7 @@ Frog/
 
 1. **Klonuj repozytorium:**
    ```bash
-   git clone https://github.com/twoj-login/frog-zabka.git
+   git clone https://github.com/jp91422/ZabkaOnline
    cd frog-zabka
 
 2. Zainstaluj wymagane biblioteki:
@@ -123,7 +123,7 @@ e-mail: jp91422@student.uwb.edu.pl
 
 ## 🗂 Repozytorium
 Projekt dostępny publicznie na GitHub:
-👉 https://github.com/twoj-login/frog-zabka
+👉 https://github.com/jp91422/ZabkaOnline
 
 
 
