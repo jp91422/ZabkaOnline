@@ -10,8 +10,22 @@ Projekt został zrealizowany w paradygmacie **funkcyjnym** i obejmuje zarówno o
 
 ## 📁 Struktura pakietu
 
-<pre> <code>```text Frog/ ├── main.py # Główny moduł (__main__) ├── manage_products.py # Moduł zarządzania produktami ├── manage_customers.py # Moduł zarządzania klientami ├── gui.py # Interfejs graficzny (tkinter) ├── stats_monitor.py # Moduł statystyk i monitoringu │ ├── products.xlsx # Baza danych produktów ├── customer.csv # Dane klientów ├── address.csv # Adresy klientów ├── requirements.txt # Lista zależności │ └── DATABASE/ # Folder z zakupami klientów └── XXXX.txt # Dane zakupów konkretnego klienta (po ID) ```</code> </pre>
-
+```text
+Frog/
+├── main.py                 # Główny moduł (__main__)
+├── manage_products.py      # Moduł zarządzania produktami
+├── manage_customers.py     # Moduł zarządzania klientami
+├── gui.py                  # Interfejs graficzny (tkinter)
+├── stats_monitor.py        # Moduł statystyk i monitoringu
+│
+├── products.xlsx           # Baza danych produktów
+├── customer.csv            # Dane klientów
+├── address.csv             # Adresy klientów
+├── requirements.txt        # Lista zależności
+│
+└── DATABASE/               # Folder z zakupami klientów
+    └── XXXX.txt            # Dane zakupów konkretnego klienta (po ID)
+```
 ---
 
 ## 🔧 Technologie i biblioteki
