@@ -13,18 +13,18 @@ Projekt został zrealizowany w paradygmacie **funkcyjnym** i obejmuje zarówno o
 ```text
 Frog/
 ├── main.py                 # Główny moduł (__main__)
-├── manage_products.py      # Moduł zarządzania produktami
-├── manage_customers.py     # Moduł zarządzania klientami
-├── gui.py                  # Interfejs graficzny (tkinter)
-├── stats_monitor.py        # Moduł statystyk i monitoringu
+├── customers.py            # Moduł zarządzania klientami
 │
 ├── products.xlsx           # Baza danych produktów
 ├── customer.csv            # Dane klientów
 ├── address.csv             # Adresy klientów
-├── requirements.txt        # Lista zależności
+├── admins.csv              # Dane adminów
 │
 └── DATABASE/               # Folder z zakupami klientów
-    └── XXXX.txt            # Dane zakupów konkretnego klienta (po ID)
+    └── 2336.txt            # Dane zakupów konkretnego klienta (po ID)
+    └── 4198.txt            # Dane zakupów konkretnego klienta (po ID)
+    └── 7879.txt            # Dane zakupów konkretnego klienta (po ID)
+    └── 8434.txt            # Dane zakupów konkretnego klienta (po ID)
 ```
 ---
 
