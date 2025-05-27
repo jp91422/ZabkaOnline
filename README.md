@@ -49,12 +49,12 @@ Frog/
    cd frog-zabka
 
 2. Zainstaluj wymagane biblioteki:
-
-pip install -r requirements.txt
+    ```bash
+   pip install -r requirements.txt
 
 3. Uruchom aplikację:
-
-python main.py
+    ```bash
+   python main.py
 
 ---
 
