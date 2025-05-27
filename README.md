@@ -107,17 +107,17 @@ API REST dla integracji mobilnej
 
 ## 👨‍🎓 Autorzy
 
-Damian Modzelewski
-nr indeksu: 91454
-e-mail: dm91454@student.uwb.edu.pl
-
-Szymon Michaluk
-nr indeksu: 91425
-e-mail: sm91425@student.uwb.edu.pl
-
-Jakub Przeździecki
-nr indeksu: 91422
-e-mail: jp91422@student.uwb.edu.pl
+Damian Modzelewski<br>
+nr indeksu: 91454<br>
+e-mail: dm91454@student.uwb.edu.pl<br>
+<br>
+Szymon Michaluk<br>
+nr indeksu: 91425<br>
+e-mail: sm91425@student.uwb.edu.pl<br>
+<br>
+Jakub Przeździecki<br>
+nr indeksu: 91422<br>
+e-mail: jp91422@student.uwb.edu.pl<br>
 
 ---
 
