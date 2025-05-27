@@ -27,7 +27,6 @@ Frog/
     └── 8434.txt            # Dane zakupów konkretnego klienta (po ID)
 │
 └── Grafiki/                # Folder z grafikami
-
 ```
 ---
 
